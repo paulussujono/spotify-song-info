@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/spotify-song-info/static/js/app.a1a13298.chunk.js",
+    "app.js.map": "/spotify-song-info/static/js/app.a1a13298.chunk.js.map",
+    "runtime~app.js": "/spotify-song-info/static/js/runtime~app.1892bbe8.js",
+    "runtime~app.js.map": "/spotify-song-info/static/js/runtime~app.1892bbe8.js.map",
+    "static/js/2.72563539.chunk.js": "/spotify-song-info/static/js/2.72563539.chunk.js",
+    "static/js/2.72563539.chunk.js.map": "/spotify-song-info/static/js/2.72563539.chunk.js.map",
+    "favicon-16.png": "/spotify-song-info/favicon-16.png",
+    "favicon-32.png": "/spotify-song-info/favicon-32.png",
+    "favicon.ico": "/spotify-song-info/favicon.ico",
+    "index.html": "/spotify-song-info/index.html",
+    "manifest.json": "/spotify-song-info/manifest.json",
+    "serve.json": "/spotify-song-info/serve.json",
+    "static/js/2.72563539.chunk.js.LICENSE.txt": "/spotify-song-info/static/js/2.72563539.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1892bbe8.js",
+    "static/js/2.72563539.chunk.js",
+    "static/js/app.a1a13298.chunk.js"
+  ]
+}
